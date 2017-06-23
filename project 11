@@ -1,0 +1,52 @@
+Project 11
+1.	Basic concepts
+a.	What is DevOPs?
+DevOPs is a cultural or practice that integrates developers and operation teams in order to improve collaboration and productivity by automating infrastructure, automating workflows and continuously measuring application performance.
+b.	What is Git?
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
+c.	 What is the difference between git and SVN?
+SVN is a centralized Version Control System, and GIT is a distributed Version Control System (DVCS) The difference between these two is that, in distributed Version Control System, every developer has their own local copy of the full version history, whereas in Centralized Version Control Systems, the version history is stored in a server-repository.
+SVN has only one single place for the full version history of the software but, with GIT every developer’s working repository can contain the full history of all the changes. GIT has been designed with performance, security and flexibility in mind.
+GIT allows a team of people to work together, all using the same files. And it helps the team cope with the confusion that tends to happen when multiple people are editing the same files.
+Git is a free and open source distributed version Control System. Software developers use Subversion to maintain current and historical versions of files such as source code, web pages, and documentation.
+d.	What is continues integration?
+Continues Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automation build, allowing teams to detect problems early.
+e.	What is continues delivery?
+f.	Continues delivery is the ability to get changes of all types- including new features, configuration changes, bug fixes, and experiments-into production, or into the hands of users, safely and quickly in a sustainable way.
+Continues delivery is a notion that as soon as a feature or a feature set has been completed, it can be automatically rolled into production. According to an Amazon presentation from the Velocity conference in 2011, Amazon rolled a new feature out to production every 11 seconds in May of that year. Not every 11 days. Not every 11 hours. Every 11 Seconds. That is Continuous Delivery at its finest.
+g.	What is scrum?
+Scrum is a framework used by teams to manage work. It is an iterative and incremental agile software development framework for managing product development. 
+Scrum is a management and control process that cuts through complexity to focus on building products that meet business needs. Management and teams are able to get their hands around the requirements and technologies, never let go, and deliver working products, incrementally and empirically.
+h.	What is agile methodology?
+Agile software development describes a set off principles for software development under which requirements and solutions evolve through the collaborative effort of self-organizing cross-functional teams. It advocates adaptive planning, evolutionary development, early delivery, and continuous improvement, and it encourages rapid and flexible response to change. These principles support the definition and continuing evolution of many software development methods. 
+Agile gives organizations the much-needed ability to quickly respond in an unpredictable market where, among many factors, consumer preferences are constantly changing and competitiveness is at its peak.
+i.	What is release calendar?
+Release calendar/schedule represents what is going on in the development arm of your IT shop/department. This is an important part of the Release process. 
+j.	What is a release date?
+A fixed date on which a product is due to become available for the public to see or buy. The date that changes made in the lowest regions goes to productions.
+2.	Give 4 reasons why companies should consider the DevOPs method
+Companies need to consider DevOPs because of:
+1.	Improvement in the productivity quality: - Rapid releases of working software help in gathering user feedback early. Such early gains help improve the quality of the end product to a great degree.
+2.	Quick releases and test feature: - Any new feature can be released quickly to gain feedback by testing the responsiveness of the end user.
+3.	Speedier resolution to problems: - Each iteration focuses on eliminating problems identified during the evolution of the working software.
+4.	Ideal for this competitive day age: – The time it takes from taking a new idea from concept to market is of utmost importance in today’s competitive environment.
+3.	What are some automation tools used in the DevOps environment?
+Some automation tools used in the DevOPs environment include: 
+Ansible
+Puppet
+Nagios
+Monit
+Jenkins
+Git (GitHub)
+ Docker ELK – Elasticsearch
+Logstash, Kibana – via Logz.io, 
+Consul.io
+4.	Why is it important to build the software in the test regions before delivering it to the production?
+It is important to build a software in the test region so as to 
+-Prevent mistakes or defects in manufactured products and avoiding problems when delivering solutions or services to customers. When a product is tested before it is rolled into production, every problem/issue with it will be corrected.
+-make sure that the software product meets its predefined goals. For example, a software application designed to view pictures should do tasks like opening a picture file and showing the picture properly.
+-enable company to better compete with others.
+-improve work processes and efficiency
+5.	Create a project in your GitHub repository called project 4 and in project 4, create a file called project 11
+6.	Copy your homework11 answers into the filevproject11 and commit it.
+7.	What is the to access your GitHub project11 file?
